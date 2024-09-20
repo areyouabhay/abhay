@@ -26,7 +26,6 @@
   <img src="https://profile-counter.glitch.me/areyouabhay/count.svg">
 </p>
   <br>
-  <br>
   <hr>
 <p align="center">
   <br>
