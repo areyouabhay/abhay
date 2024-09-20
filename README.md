@@ -20,3 +20,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=areyouabhay&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
 </a>
 </p>
+ <br>
+  <br>
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/areyouabhay/count.svg">
+</p>
+  <br>
+  <br>
