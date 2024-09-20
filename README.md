@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=areyouabhay&data=followers,repositories,stars,commits)](https://github.com/areyouabhay/github-widgetbox)
+
 # 💫 About Me:
 🔭 I’m currently working on Nirvana<br><br>🌱 I’m currently learning Backend Web-Development<br><br>👨‍💻 All of my projects are available at https://github.com/areyouabhay<br><br>📫 How to reach me xdkxrma@gmail.com
 
