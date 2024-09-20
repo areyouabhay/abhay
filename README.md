@@ -20,6 +20,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=areyouabhay&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
 </a>
 </p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
----
