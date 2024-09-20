@@ -1,10 +1,8 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=areyouabhay&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/areyouabhay/)
 
-# 💫 About Me:
+# Hey everyone !
 🔭 I’m currently working on Nirvana<br><br>🌱 I’m currently learning Backend Web-Development<br><br>👨‍💻 All of my projects are available at https://github.com/areyouabhay<br><br>📫 How to reach me xdkxrma@gmail.com
 
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areyouabhay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areyouabhay) 
 
 ## 💻 Tech Stack:
@@ -16,6 +14,3 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=areyouabhay&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
