@@ -1,6 +1,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=areyouabhay&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/areyouabhay/)
 
-# Hey everyone !
+  <h1 align="center">Hi , I'm Abhay <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+</p>
 
 I'm Abhay, a dedicated and innovative developer, known for crafting clean, efficient, and user-friendly code. Always eager to learn and implement cutting-edge technologies. I like turns ideas into reality with a passion for problem-solving and a commitment to excellence!
 
