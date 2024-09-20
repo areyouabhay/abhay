@@ -1,7 +1,12 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=areyouabhay&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/areyouabhay/)
 
 # Hey everyone !
-🔭 I’m currently working on Nirvana<br><br>🌱 I’m currently learning Backend Web-Development<br><br>👨‍💻 All of my projects are available at https://github.com/areyouabhay<br><br>📫 How to reach me xdkxrma@gmail.com
+
+I'm Abhay, a dedicated and innovative developer, known for crafting clean, efficient, and user-friendly code. Always eager to learn and implement cutting-edge technologies. I like turns ideas into reality with a passion for problem-solving and a commitment to excellence!
+
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning Web Development (Full-Stack)
+- ⚡ Fun fact: My second name is Karma !
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9bWCU6VPEM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areyouabhay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/areyouabhay) 
 
