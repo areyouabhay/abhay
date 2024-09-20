@@ -27,3 +27,7 @@
 </p>
   <br>
   <br>
+  <hr>
+<p align="center">
+  <br>
+</p>
